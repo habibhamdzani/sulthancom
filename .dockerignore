@@ -1,0 +1,10 @@
+node_modules
+.git
+.gitignore
+.npmrc
+.vscode
+backend
+docker-compose.yml
+Dockerfile
+.prd_*
+*.md
